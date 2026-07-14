@@ -1,22 +1,26 @@
-# Computer Science Programming Assignments
+# C++ Programming Assignments
 
-A structured repository containing academic programming assignments, practical lab exercises, and algorithmic problem-solving implementations across multiple language paradigms.
+A structured repository containing academic programming assignments, practical lab exercises, and algorithmic problem-solving implementations using C++.
 
-## 🛠️ Languages Covered
+## 🛠️ Language & Core Focus
 
-| Language | Logo | Core Focus Areas |
-| :--- | :--- | :--- |
-| **C** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> | Procedural Programming, Memory Management, Pointers & Structures |
-| **C++** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> | Object-Oriented Programming (OOP), Templates, STL & Resource Management |
-| **Java** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> | Platform-Independent OOP, Exception Handling, Collections Framework & Multithreading |
-| **Python** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> | Scripting, Data Structures, Functional Programming & Rapid Prototyping |
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+</p>
+
+* **Object-Oriented Programming (OOP):** Encapsulation, Inheritance, Polymorphism, and Abstraction.
+* **Memory Management:** Pointers, dynamic allocation, and resource safety.
+* **Data Structures & STL:** Utilizing the Standard Template Library (Vectors, Lists, Maps, and Algorithms).
 
 ---
 
 ## 🚀 Repository Structure
-Once lab tasks are assigned, they will be organized by language:
+
+Programs will be organized systematically as they are implemented:
+
 ```text
-├── c-assignments/
-├── cpp-assignments/
-├── java-assignments/
-└── python-assignments/
+cpp-assignments/
+├── Basic-Syntax/        # Control flow, functions, and arrays
+├── OOP-Concepts/        # Classes, inheritance, and polymorphism
+├── Data-Structures/     # Stacks, queues, linked lists, and STL
+└── Lab-Journals/        # Official college lab submissions
