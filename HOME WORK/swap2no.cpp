@@ -5,7 +5,7 @@ int main() {
     std::cin >> a;
     std::cout << "Enter second number (b): ";
     std::cin >> b;
-    temp = a;
+    temp = auu;
     a = b;
     b = temp;
     std::cout << "a = " << a << std::endl;

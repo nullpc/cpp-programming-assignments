@@ -9,10 +9,13 @@ int main() {
     int product = num1 * num2;
     std::cout << "Subtraction (Difference): " << difference << std::endl;
     std::cout << "Multiplication (Product): " << product << std::endl;
-    if (num2 != 0) {
+    if (num2 != 0) 
+    {
         int remainder = num1 % num2;
         std::cout << "Modulus (Remainder): " << remainder << std::endl;
-    } else {
+    } 
+    else 
+    {
         std::cout << "Modulus: Cannot calculate remainder when dividing by zero!" << std::endl;
     }
     return 0;
